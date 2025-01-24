@@ -1,6 +1,7 @@
 # Hello, I'm Dinuja Dulsara Herath! 👋
 
-![Profile Banner](https://yourimageurl.com/banner.jpg)
+![Profile Banner](![image](https://github.com/user-attachments/assets/9b79c2bf-92c8-4025-b766-6acb12f13ff4)
+)
 
 ## 🚀 About Me
 
