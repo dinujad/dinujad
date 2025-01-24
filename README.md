@@ -18,10 +18,7 @@ const DinujaHerath = {
   hobbies: ["Photography 📸", "Nature walks 🌳", "Gaming 🎮"]
 };
 
-
-
-
-### 💼 Tech Arsenal
+```
 
 #### Core Technologies
 
@@ -44,15 +41,11 @@ const DinujaHerath = {
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
-
 ### 🌟 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YourUsername)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YourUsername)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/YourUsername)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white)](https://yourportfolio.com)
-
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/YourUsername](https://lk.linkedin.com/in/dinuja-d-herath-985994248))
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/i/flow/login?redirect_after_login=%2Fdinujadherath1))
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white)](https://dinujadulsara.com/))
 
 ### 🔥 Fun Fact
 
