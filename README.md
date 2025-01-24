@@ -1,32 +1,25 @@
- Hi there, I'm Dinuja Dulsara Herath! 👋
-# Hi there, I'm Dinuja Dulsara Herath! 👋
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=F70000&width=600&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Full+Stack+Developer;Tech+Enthusiast+and+Creative+Designer)
+# Hi there, I'm Dinuja Dulsara Herath 👋
 
 ### 🚀 About Me
 
 ```javascript
-const DinujaHerath = {
+const DinujaDulsaraHerath = {
   location: "🌍 Sri Lanka",
-  education: "📚 BSc in Information Technology",
-  roles: ["Full Stack Developer", "Tech Enthusiast", "Creative Designer"],
+  education: "📚 BSc in Information Technology Specialising in Software Engineering (UG) SLIIT",
+  roles: ["Director of E media solution (pvt) Ltd ""Full Stack Developer", "Tech Enthusiast", "Creative Designer"],
   currentFocus: ["AI & Machine Learning", "Web 3.0", "Cloud Computing"],
   communities: {
-    founder: ["Innovators Circle"],
-    member: ["Tech Society Sri Lanka", "Open Source Contributors"]
+    founder: ["Director of E media solution (pvt) Ltd "],
   },
   lifePhilosophy: "Keep learning, keep growing 🌱",
-  hobbies: ["Photography 📸", "Nature walks 🌳", "Gaming 🎮"]
 };
+```
 
 
 ### 💼 Tech Arsenal
 
 #### Core Technologies
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
