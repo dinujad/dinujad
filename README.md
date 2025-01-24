@@ -1,6 +1,6 @@
-# Hi there, I'm [Your Name] 👋
+ Hi there, I'm Dinuja Dulsara Herath! 👋
 
-### 🚀 About Me
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=F70000&width=435&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Full+Stack+Developer;Tech+Enthusiast+and+Creative+Designer)
 
 ```javascript
 const YourName = {
@@ -16,13 +16,6 @@ const YourName = {
   hobbies: ["Photography 📸", "Nature walks 🌳", "Gaming 🎮"]
 };
 ```
-
-### 📊 My GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)
-
----
 
 ### 💼 Tech Arsenal
 
