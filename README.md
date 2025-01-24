@@ -1,9 +1,12 @@
  Hi there, I'm Dinuja Dulsara Herath! 👋
+# Hi there, I'm Dinuja Dulsara Herath! 👋
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=F70000&width=435&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Full+Stack+Developer;Tech+Enthusiast+and+Creative+Designer)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=F70000&width=600&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Full+Stack+Developer;Tech+Enthusiast+and+Creative+Designer)
+
+### 🚀 About Me
 
 ```javascript
-const YourName = {
+const DinujaHerath = {
   location: "🌍 Sri Lanka",
   education: "📚 BSc in Information Technology",
   roles: ["Full Stack Developer", "Tech Enthusiast", "Creative Designer"],
@@ -15,7 +18,7 @@ const YourName = {
   lifePhilosophy: "Keep learning, keep growing 🌱",
   hobbies: ["Photography 📸", "Nature walks 🌳", "Gaming 🎮"]
 };
-```
+
 
 ### 💼 Tech Arsenal
 
